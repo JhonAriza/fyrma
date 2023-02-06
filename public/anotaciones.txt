@@ -1,0 +1,15 @@
+Posibles Estados
+
+En todos se vera:
+1- Html renderizado con o sin firmas
+2- Comentarios por parrafo del html
+
+1- Borrador
+    a- Permite agregar mas participantes
+    b- seleccionar los blindajes del documento
+    c- como parte del documento, firmar o no firmar.
+    d- ver mi firma y posibilidad generar una nueva
+    e- boton de Generar o Enviar, el cual notificara a sus partes del documento, cambiara al estado "Pendiente por Firmar"
+
+2- Pendiente por Firma
+    a- 
